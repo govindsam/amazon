@@ -109,9 +109,9 @@
                     };
 
                     item.appendChild(img);
-                    const Style_Id = document.createElement("p");
-                    Style_Id.textContent = "Style Id : " + product.name;
-                    item.appendChild(Style_Id);
+                    const ASIN = document.createElement("p");
+                    ASIN.textContent = "ASIN : " + product.name;
+                    item.appendChild(ASIN);
 
                     const quantity_for_fba = document.createElement("p");
                     quantity_for_fba.textContent = "quantity_for_fba : " + product.quantity_for_fba;
@@ -129,7 +129,7 @@
 
                     const link = document.createElement("a");
                     link.textContent = "buy";
-                    link.href = "https://amazon.com/dp/"+product.name;
+                    link.href = "https://amazon.com/gp/product/"+product.name;
                     link.target = "_blank";
                     link.rel = "noopener noreferrer";
                     item.appendChild(link);
