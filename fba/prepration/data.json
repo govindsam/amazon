@@ -3,6 +3,15 @@
         "name": "B0FMFP4C5D",
         "quantity_for_fba": "15",
         "fnsku": "X002OLGTZB",
-        "fnsku_name": "Miss Astute Sunburst N...andhan Gift for Sister New"
+        "fnsku_name": "Miss Astute Sunburst N...andhan Gift for Sister New",
+        "mrp" : "1035 (inclusive of all taxes)"
+    },
+    {
+        "name": "B0FYG7B17C",
+        "quantity_for_fba": "12",
+        "fnsku": "X002OLDQDT",
+        "fnsku_name": "MISS ASTUTE Crimson G...ster | Gold, Red, Pink New",
+        "mrp" : "1320 (inclusive of all taxes)"
+
     }
 ]
